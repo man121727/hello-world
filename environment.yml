@@ -10,4 +10,4 @@ dependencies:
     - pandas
     - thinc
     - requests
-    - beatifulsoup4
+    - beautifulsoup4
