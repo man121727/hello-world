@@ -9,5 +9,5 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    -requests
-    -beatifulsoup4
+    - requests
+    - beatifulsoup4
